@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/blaguesdroles/static/css/main.56d37f7c.css",
+    "main.js": "/blaguesdroles/static/js/main.23d637d4.js",
+    "static/js/787.91c5826c.chunk.js": "/blaguesdroles/static/js/787.91c5826c.chunk.js",
+    "static/media/img4.jpg": "/blaguesdroles/static/media/img4.b33563a6e47c31525fda.jpg",
+    "static/media/img6.jpg": "/blaguesdroles/static/media/img6.5f8be902a330a3e14e27.jpg",
+    "static/media/img2.jpeg": "/blaguesdroles/static/media/img2.95450658f6561b55789f.jpeg",
+    "static/media/imag1.jpg": "/blaguesdroles/static/media/imag1.a69d9e985fb133ad5242.jpg",
+    "static/media/img3.jpg": "/blaguesdroles/static/media/img3.359a4649a091401987b6.jpg",
+    "static/media/img8.jpg": "/blaguesdroles/static/media/img8.173cd48f13bbffe8fb62.jpg",
+    "static/media/img5.jpg": "/blaguesdroles/static/media/img5.850123cdbd49cbd9de73.jpg",
+    "static/media/img7.jpg": "/blaguesdroles/static/media/img7.053c6e766b8c328430bc.jpg",
+    "static/media/contact.png": "/blaguesdroles/static/media/contact.8a2b39bdd3ca5dba4a84.png",
+    "index.html": "/blaguesdroles/index.html",
+    "main.56d37f7c.css.map": "/blaguesdroles/static/css/main.56d37f7c.css.map",
+    "main.23d637d4.js.map": "/blaguesdroles/static/js/main.23d637d4.js.map",
+    "787.91c5826c.chunk.js.map": "/blaguesdroles/static/js/787.91c5826c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56d37f7c.css",
+    "static/js/main.23d637d4.js"
+  ]
+}
